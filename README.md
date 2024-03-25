@@ -6,4 +6,4 @@ KELAS        : C
 
 MATA MULIAH  : PEMBELAJARAN MESIN / MACHINE LEARNING
 
-LINK DATASET :
+LINK DATASET : https://www.kaggle.com/datasets/cpluzshrijayan/milkquality
